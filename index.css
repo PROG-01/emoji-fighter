@@ -1,5 +1,7 @@
 body {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-family: 'Permanent Marker', cursive;
     height: 100vh;
     color: #e98a1d;
